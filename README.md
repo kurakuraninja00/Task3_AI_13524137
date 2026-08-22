@@ -23,3 +23,6 @@ Repositori ini memuat *source code* dan dokumentasi analisis untuk kompetisi kla
 
 ## 🔮 Panduan Inferensi
 Untuk panduan detil mengenai *deployment* dan cara memanggil model secara lokal, baca dokumen [inference.md](./inference.md).
+
+## Link video bonus
+https://youtu.be/m7wkT_j4UW8 
