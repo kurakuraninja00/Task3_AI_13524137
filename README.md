@@ -26,3 +26,6 @@ Untuk panduan detil mengenai *deployment* dan cara memanggil model secara lokal,
 
 ## Link video bonus
 https://youtu.be/m7wkT_j4UW8 
+
+## Link models + inference instructions
+https://drive.google.com/drive/folders/1hvJnRtIo7ml8H5woAPXYai4x6JmjCqvw?usp=sharing
